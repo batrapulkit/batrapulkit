@@ -6,7 +6,7 @@ https://cs231n.github.io/python-numpy-tutorial/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batrapulkit" alt="batrapulkit" /></a> </p>
 
--🌱 I’m currently working on **Chatbot built on Transer Learnt Model**
+-🌱 I’m currently working on **Chatbot built on Transfer Learnt Model**
 
 - 🔭  Latest Project **ECOEYE: Online Bird Monitoring System**
 
