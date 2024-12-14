@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pulkit Batra</h1>
 <h3 align="center">A passionate Data Analyst , AI Developer and a Cyber Expert from India based in Canada.</h3>
 
