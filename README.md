@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batrapulkit" alt="batrapulkit" /></a> </p>
 
--🌱 I’m currently working on **Chatbot built on Transfer Learnt Model**
+-🌱 I’m currently working on **Chatbot for Stress Management**
 
 - 🔭  Latest Project **ECOEYE: Online Bird Monitoring System**
 
