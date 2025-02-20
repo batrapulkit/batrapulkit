@@ -12,6 +12,7 @@
 - 🌱 **Currently working on:** **AI Course Generator** – Building a system to create personalized learning paths and courses using AI.
 - 🔭 **Latest Projects:**
   - **ECOEYE** – Online Bird Monitoring System
+  - **JARVIS** - AI Personal Assistant
   - **Movie Detail Analysis** – A project to analyze and visualize movie data using machine learning techniques.
   - **Flappy Bird AI** – An AI agent that learns to play Flappy Bird using reinforcement learning.
   - **Chatbot for Stress Management** – A chatbot designed to provide assistance for managing stress.
